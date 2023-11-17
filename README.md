@@ -1,0 +1,4 @@
+- Hi, I’m @DylanWS.
+- I’m interested in improving my programming skills.
+- I’m currently learning Python, C++ and C#. 
+- I’m looking to collaborate on as many projects as possible.
